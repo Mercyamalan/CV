@@ -1,4 +1,3 @@
-# CV
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -9,8 +8,8 @@
   <body>
     <table cellspacing = '20'>
       <td>
-        <a href="https://in.linkedin.com/pub/dir/Mercy/Rani/in-0-India"></a>
-        <!--<img src="Mercy.jpg" alt ="Mercy Profile picure">-->
+       <!--  <img src="https://in.linkedin.com/pub/dir/Mercy/Rani/in-0-India" alt="MERCY DP">-->
+        <img src="Mercy.jpg" alt ="Mercy Profile picure">
       </td>
       <td>
         <h1>MERCY</h1>
@@ -76,14 +75,7 @@
             <a href="input.html">InputFunnalities</a>
 
   </body>
-</html>
  
-  <!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
   <body>
     <p>Call me by : <b>Mercy</b></p>
     <p>Reach out me by Mobile : <em><b>+91 7397540686</b></em></p>
@@ -110,14 +102,7 @@
     </form>
 
   </body>
-</html>
-
-  <!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
+ 
   <body>
     <h3>My Hobbies</h3>
       <ol>
@@ -125,6 +110,9 @@
         <li>Playing Keyboard</li>
         <li>Hand crafts</li>
       </ol>
-  </body>
+  
+
 </html>
+
+
 
